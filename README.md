@@ -48,3 +48,19 @@ Feel free to explore the solutions and improve them. If you have any suggestions
 
 Let's embark on this exciting journey together! 🌐
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0088-merge-sorted-array) |
+<!---LeetCode Topics End-->
