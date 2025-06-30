@@ -63,6 +63,7 @@ Let's embark on this exciting journey together! 🌐
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amisha-sinoban/Devcore/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0189-rotate-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,10 +77,12 @@ Let's embark on this exciting journey together! 🌐
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +91,7 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +107,8 @@ Let's embark on this exciting journey together! 🌐
 | ------- |
 | [0055-jump-game](https://github.com/Amisha-sinoban/Devcore/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amisha-sinoban/Devcore/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
