@@ -64,6 +64,7 @@ Let's embark on this exciting journey together! 🌐
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amisha-sinoban/Devcore/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Amisha-sinoban/Devcore/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ Let's embark on this exciting journey together! 🌐
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Amisha-sinoban/Devcore/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
@@ -114,4 +116,8 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Amisha-sinoban/Devcore/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
