@@ -65,6 +65,7 @@ Let's embark on this exciting journey together! 🌐
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Amisha-sinoban/Devcore/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
@@ -99,6 +101,7 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +123,12 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Amisha-sinoban/Devcore/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
