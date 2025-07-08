@@ -87,6 +87,7 @@ Let's embark on this exciting journey together! 🌐
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amisha-sinoban/Devcore/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
@@ -102,6 +103,7 @@ Let's embark on this exciting journey together! 🌐
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amisha-sinoban/Devcore/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -138,4 +140,8 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Amisha-sinoban/Devcore/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Amisha-sinoban/Devcore/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
