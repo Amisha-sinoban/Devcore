@@ -156,4 +156,12 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amisha-sinoban/Devcore/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Amisha-sinoban/Devcore/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Amisha-sinoban/Devcore/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
