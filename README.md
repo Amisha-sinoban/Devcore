@@ -164,4 +164,20 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Amisha-sinoban/Devcore/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Amisha-sinoban/Devcore/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Amisha-sinoban/Devcore/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Amisha-sinoban/Devcore/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Amisha-sinoban/Devcore/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
