@@ -12,9 +12,5 @@ public class Solution {
         return i == s.length();
     }
 
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.isSubsequence("abc", "ahbgdc")); // true
-        System.out.println(sol.isSubsequence("axc", "ahbgdc")); // false
-    }
+    
 }
