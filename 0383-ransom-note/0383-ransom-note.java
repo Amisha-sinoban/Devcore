@@ -27,26 +27,4 @@ class Solution {
 
         return true;
     }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        
-        // Example 1:
-        String ransomNote1 = "a";
-        String magazine1 = "b";
-        System.out.println("Input: ransomNote = \"" + ransomNote1 + "\", magazine = \"" + magazine1 + "\"");
-        System.out.println("Output: " + sol.canConstruct(ransomNote1, magazine1)); // Expected: false
-
-        // Example 2:
-        String ransomNote2 = "aa";
-        String magazine2 = "ab";
-        System.out.println("\nInput: ransomNote = \"" + ransomNote2 + "\", magazine = \"" + magazine2 + "\"");
-        System.out.println("Output: " + sol.canConstruct(ransomNote2, magazine2)); // Expected: false
-
-        // Example 3:
-        String ransomNote3 = "aa";
-        String magazine3 = "aab";
-        System.out.println("\nInput: ransomNote = \"" + ransomNote3 + "\", magazine = \"" + magazine3 + "\"");
-        System.out.println("Output: " + sol.canConstruct(ransomNote3, magazine3)); // Expected: true
-    }
 }
