@@ -69,6 +69,7 @@ Let's embark on this exciting journey together! 🌐
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-sinoban/Devcore/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amisha-sinoban/Devcore/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Amisha-sinoban/Devcore/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Amisha-sinoban/Devcore/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Amisha-sinoban/Devcore/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amisha-sinoban/Devcore/tree/master/0380-insert-delete-getrandom-o1) |
@@ -140,6 +141,7 @@ Let's embark on this exciting journey together! 🌐
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Amisha-sinoban/Devcore/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting Sort
 |  |
@@ -156,6 +158,7 @@ Let's embark on this exciting journey together! 🌐
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Amisha-sinoban/Devcore/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Amisha-sinoban/Devcore/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
@@ -218,6 +221,7 @@ Let's embark on this exciting journey together! 🌐
 | ------- |
 | [0035-search-insert-position](https://github.com/Amisha-sinoban/Devcore/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amisha-sinoban/Devcore/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Amisha-sinoban/Devcore/tree/master/0209-minimum-size-subarray-sum) |
 ## String Matching
 |  |
 | ------- |
