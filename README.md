@@ -98,6 +98,7 @@ Let's embark on this exciting journey together! 🌐
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amisha-sinoban/Devcore/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amisha-sinoban/Devcore/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Amisha-sinoban/Devcore/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Amisha-sinoban/Devcore/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Amisha-sinoban/Devcore/tree/master/0169-majority-element) |
@@ -141,6 +142,7 @@ Let's embark on this exciting journey together! 🌐
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amisha-sinoban/Devcore/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amisha-sinoban/Devcore/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Amisha-sinoban/Devcore/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting Sort
@@ -163,6 +165,7 @@ Let's embark on this exciting journey together! 🌐
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amisha-sinoban/Devcore/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Amisha-sinoban/Devcore/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Amisha-sinoban/Devcore/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amisha-sinoban/Devcore/tree/master/0014-longest-common-prefix) |
