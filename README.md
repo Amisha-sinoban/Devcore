@@ -118,6 +118,7 @@ Let's embark on this exciting journey together! 🌐
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Amisha-sinoban/Devcore/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Amisha-sinoban/Devcore/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Amisha-sinoban/Devcore/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Amisha-sinoban/Devcore/tree/master/0070-climbing-stairs) |
